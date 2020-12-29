@@ -1,0 +1,1 @@
+export const getDisplay = (store: any) => store.display;
